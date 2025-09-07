@@ -49,15 +49,6 @@ Currently exploring **Flutter, ESP32, Next.js, and AI/ML** projects.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
 ---
 
 ## 📫 Connect With Me
